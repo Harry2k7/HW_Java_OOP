@@ -1,4 +1,4 @@
-public class Program {
+public class Program1 {
 
     /*
     a. Даны классы Fruit, Apple extends Fruit, Orange extends Fruit;
@@ -52,6 +52,6 @@ public class Program {
         System.out.println("Вес appleBox2 после пересыпания: " + appleBox2.getWeight());
         System.out.println("------------------------------------");
 
-        // appleBox1.transferTo(orangeBox);  //Попытка смешать яблоки и апельсины выдаёт ошибку компиляции
+        //appleBox1.transferTo(orangeBox);  //Попытка смешать яблоки и апельсины выдаёт ошибку компиляции
     }
 }
