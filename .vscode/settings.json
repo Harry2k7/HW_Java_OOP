@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "lesson5",
         "lesson4",
         "lesson3",
         "lesson2",
         "lesson1",
-        "lesson5"
+        "lesson6/srp2"
     ]
 }
